@@ -41,13 +41,17 @@ body {
 #container h1 {
     font-size: 20px;
 }
+p img  {
+    margin: auto;
+    display: block;
+}
 
 #post {
     background: white;
     padding: 1em;
 }
 #footer {
-    background: #777;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: 0.3em;
